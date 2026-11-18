@@ -30,6 +30,7 @@ These rules apply to people and AI agents who edit this repository.
 - Do not attribute an original drill to a person who did not publish it.
 - Never invent access dates, page numbers, prices, citations, or study findings.
 - Do not commit third-party PDFs, images, or video. Link to them instead.
+- Keep the existing [LICENSE](LICENSE) (CC BY 4.0). It covers original text only. Do not change it or apply it to third-party material.
 - Write summaries in original words. Use only short attributed quotations when needed.
 
 ## Claims

@@ -44,6 +44,11 @@ Short on time? Open the solo plan and follow the blocks in order.
 
 Practice on a clear, dry court. Stop if you feel pain or dizziness.
 
+## License
+
+- The original text in this repository is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). You may share and adapt it if you give credit to cjqu001 and link to this repository.
+- The license does not cover the external resources linked in [resources](docs/resources.md). Those belong to their owners.
+
 ## Contributing
 
 See [AGENTS.md](AGENTS.md) for writing rules and the [drill template](templates/drill-template.md).
