@@ -62,7 +62,8 @@
 
 ## Sources and provenance
 
-- Source IDs: [S2](../docs/resources.md#s2-pickleball-coaches-manual), footwork section, PDF pages 32 to 33 (open-stance lateral drill).
+- Source IDs: [S2](../docs/resources.md#s2-pickleball-coaches-manual), footwork section, PDF pages 32 to 33 (open-stance lateral drill). [S5](../docs/resources.md#s5-a-closer-look-at-pickleball-footwork-with-michael-loyd), side shuffle tip, which describes random-side partner feeds at the kitchen line with no crossing of the feet.
 - Provenance: Original adaptation.
+- Note on S5: S5 advises against crossover steps at the kitchen. This card follows that for 1 to 2 step moves. The harder version allows a short crossover only for a ball too far to reach with a shuffle.
 - What was adapted: The idea of shuffling in an open stance to catch a tossed ball, then progressing to paddle contact.
 - What changed: The drill moves from the baseline to the kitchen line, and all feeds come from the opposite kitchen line. Distances are set for real dinks. The drive progression is removed. The recovery target follows the feeder's position in the harder version. Cues, dose, and success check are original.

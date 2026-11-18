@@ -64,5 +64,6 @@
 
 ## Sources and provenance
 
-- Source IDs: [S2](../docs/resources.md#s2-pickleball-coaches-manual), footwork introduction, PDF page 31, for the general idea that footwork sets a stable position for each shot.
+- Source IDs: [S2](../docs/resources.md#s2-pickleball-coaches-manual), footwork introduction, PDF page 31, for the general idea that footwork sets a stable position for each shot. [S5](../docs/resources.md#s5-a-closer-look-at-pickleball-footwork-with-michael-loyd), small steps tip, which advises small adjustment steps instead of lunging.
 - Provenance: Original drill. The feed types, steps, cues, dose, and success check are original to this repository.
+- Related idea: S5 describes a different drill, a fed rally where no step may be longer than about a shoe length. You can add that rule to this drill as an extra challenge.

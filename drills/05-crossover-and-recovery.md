@@ -23,7 +23,7 @@
 2. Split step as the feeder contacts the ball.
 3. Near ball: shuffle 1 or 2 steps, set feet, and hit a soft shot back.
 4. Far ball: turn the hips toward the ball, cross the far leg over, and take running steps if needed. Slow down and set the feet before contact. Hit a soft shot back.
-5. Recover toward the middle of the area you are covering. Use a crossover first if you are far away, then shuffle as you get close.
+5. Recover on a diagonal path toward the middle of the area you are covering. Use a crossover first if you are far away, then shuffle as you get close.
 6. Stop balanced in ready position before the feeder sends the next ball.
 7. The rep ends when you are set.
 
@@ -61,5 +61,6 @@
 
 ## Sources and provenance
 
-- Source IDs: [S2](../docs/resources.md#s2-pickleball-coaches-manual), footwork introduction, PDF page 31, for the general goal of moving to the ball and recovering quickly. [S5](../docs/resources.md#s5-a-closer-look-at-pickleball-footwork-with-michael-loyd) was inaccessible and was not used for content.
+- Source IDs: [S2](../docs/resources.md#s2-pickleball-coaches-manual), footwork introduction, PDF page 31, for the general goal of moving to the ball and recovering quickly. [S5](../docs/resources.md#s5-a-closer-look-at-pickleball-footwork-with-michael-loyd), recovery paths tip, which advises a diagonal recovery toward the center after a wide shot.
 - Provenance: Original drill. The near and far comparison, steps, cues, dose, and success check are original to this repository.
+- Note on S5: S5 advises against crossover steps at the kitchen. This drill is set a few steps behind the kitchen line, where a wider ball may need a crossover. At the kitchen line, use the shuffle from [FW-02](02-kitchen-lateral-shuffle.md) for short moves.

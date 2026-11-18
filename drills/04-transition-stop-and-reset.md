@@ -61,7 +61,7 @@
 
 ## Sources and provenance
 
-- Source IDs: [S2](../docs/resources.md#s2-pickleball-coaches-manual), footwork section, PDF page 34 (forward movement drills) and page 31 (footwork for advancing toward the net).
+- Source IDs: [S2](../docs/resources.md#s2-pickleball-coaches-manual), footwork section, PDF page 34 (forward movement drills) and page 31 (footwork for advancing toward the net). [S5](../docs/resources.md#s5-a-closer-look-at-pickleball-footwork-with-michael-loyd), transition zone tip.
 - Provenance: Original adaptation.
-- What was adapted: The idea of practicing forward movement with a fed ball, progressing from a catch to paddle contact.
+- What was adapted: From S2, the idea of practicing forward movement with a fed ball, progressing from a catch to paddle contact. From S5, the rule to stop, split step, and set the feet each time the opponent hits while moving through the transition zone.
 - What changed: This drill uses staged stops through the transition area, timed to the feeder's contact. It plays soft controlled shots rather than drives. Steps, cues, dose, and success check are original.

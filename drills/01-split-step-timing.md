@@ -57,5 +57,7 @@
 
 ## Sources and provenance
 
-- Source IDs: [S1](../docs/resources.md#s1-improving-your-pickleball-footwork) for the general aim of better reaction and balance. [S5](../docs/resources.md#s5-a-closer-look-at-pickleball-footwork-with-michael-loyd) lists split-step timing as a topic, but it was inaccessible and was not used for content.
-- Provenance: Original drill. The stages, cues, dose, and success check are original to this repository.
+- Source IDs: [S1](../docs/resources.md#s1-improving-your-pickleball-footwork) for the general aim of better reaction and balance. [S5](../docs/resources.md#s5-a-closer-look-at-pickleball-footwork-with-michael-loyd), split step timing tip.
+- Provenance: Original adaptation.
+- What was adapted: S5 suggests a partner who says "hit" on each swing while the player times the split step to it. That is stage 2 here.
+- What changed: This card adds a solo rehearsal stage, a stage that drops the voice cue so the player reads the real paddle, a paddle-contact stage, and fake swings in the harder version. Cues, dose, and success check are original.

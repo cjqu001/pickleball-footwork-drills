@@ -67,7 +67,7 @@
 
 ## Sources and provenance
 
-- Source IDs: [S2](../docs/resources.md#s2-pickleball-coaches-manual), footwork section, PDF pages 36 to 37 (combination movement drills).
+- Source IDs: [S2](../docs/resources.md#s2-pickleball-coaches-manual), footwork section, PDF pages 36 to 37 (combination movement drills). [S5](../docs/resources.md#s5-a-closer-look-at-pickleball-footwork-with-michael-loyd), recovery paths tip, for partners recovering together at the kitchen in the harder version.
 - Provenance: Original adaptation.
 - What was adapted: The idea of combining lateral and forward movement in one drill, with a fed ball and progression to paddle contact.
 - What changed: S2 combination drills use set patterns that start at the baseline. This drill uses random feeds from the opposite kitchen line, a short court area, and a recovery target based on the feeder's position. The drive progression is removed. Feed types, cues, dose, and success check are original.

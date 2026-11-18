@@ -2,7 +2,7 @@
 
 This page explains the movement terms used in the drill cards. No tennis background is needed.
 
-Provenance: original instructional summary. It draws on general concepts described in [S1](resources.md#s1-improving-your-pickleball-footwork) and [S2](resources.md#s2-pickleball-coaches-manual). Wording and cues are original.
+Provenance: original instructional summary. It draws on general concepts described in [S1](resources.md#s1-improving-your-pickleball-footwork) [S2](resources.md#s2-pickleball-coaches-manual), and [S5](resources.md#s5-a-closer-look-at-pickleball-footwork-with-michael-loyd). Wording and cues are original.
 
 ## Court words
 
@@ -14,7 +14,8 @@ Provenance: original instructional summary. It draws on general concepts describ
 ## Ready position and balanced posture
 
 - Feet a little wider than your hips.
-- Knees slightly bent. Weight on the balls of your feet, not your heels.
+- Knees slightly bent. Bend at the knees, not the waist, so your head stays up.
+- Weight on the balls of your feet, not your heels.
 - Paddle up in front of your body.
 - Chest and eyes facing the ball.
 - Balanced means you could move in any direction without first shifting your weight back to center.
@@ -64,6 +65,7 @@ Provenance: original instructional summary. It draws on general concepts describ
 - Recovery means moving to a good spot for the next ball after you hit.
 - The right spot depends on where the ball is and where your partner is.
 - In doubles, partners shift together toward the side where the ball is. This keeps the middle covered.
+- After a wide ball, a diagonal path back toward the middle usually covers more angles than moving straight back.
 - There is no single fixed center point you always return to.
 - Recover under control. Be balanced again before the opponent hits.
 

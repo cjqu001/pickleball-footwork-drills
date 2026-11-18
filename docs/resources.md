@@ -73,15 +73,24 @@ None of these resources is needed to use the drills. Paid items are optional fur
 ## S5: A closer look at pickleball footwork with Michael Loyd
 
 - Title: A closer look at pickleball footwork with Michael Loyd
-- Author or organization: pickleball.com
+- Author or organization: Victoria Radnothy, pickleball.com. The article reports advice from Michael Loyd.
 - URL: https://pickleball.com/learn/a-closer-look-at-pickleball-footwork-with-michael-loyd
 - Format: Online article
-- Access status: Inaccessible. Treated as a broken link until the repository owner has a login.
+- Published: October 22, 2025, according to the article page
+- Access status: Full text reviewed
 - Date checked: November 18, 2026
-- Sections reviewed: None. The page returned HTTP 404 to one automated fetch and HTTP 403 to another. The repository owner also does not have access. The page may need a login. Recheck it once a login is available.
-- Topics noted in earlier planning (not re-verified): ready position, split-step timing, and lateral shuffle practice with partner feeds.
-- Relevant skill: Split-step timing and lateral shuffle.
-- How this repository uses it: Listed as a supplemental reading only. No drill summarizes it. The repository treats "shuffle at the kitchen" as a default for short moves, not a ban on crossover steps.
+- How it was reviewed: The live page blocked automated access (HTTP 404 and 403). The repository owner supplied a saved copy of the page on November 18, 2026. The whole article text in that copy was read. The saved copy is not committed to this repository.
+- Sections reviewed: All seven tips in the article.
+- Summary in our own words:
+  - Stay low by bending the knees rather than the waist. This helps balance, court awareness, and quick changes of direction.
+  - Time the split step to the opponent's contact, with weight on the balls of the feet. A partner calling "hit" on each swing is suggested as a timing cue.
+  - At the kitchen, shuffle side to side and keep the hips facing the net. A suggested drill has a partner feed random sides while the player shuffles without crossing the feet.
+  - Use small adjustment steps instead of lunging. A suggested drill limits every step to about a shoe length during a fed rally.
+  - Move through the transition zone in stages. Stop, split step, and set the feet each time the opponent hits.
+  - After a wide shot, recover on a diagonal path toward the center. In doubles, keep the partner in peripheral vision and recover together.
+  - Practice footwork when tired, for example with a short fast rally that keeps the split step going. Move the feet before the swing.
+- Relevant skill: Balanced posture, split-step timing, kitchen shuffle, adjustment steps, transition stops, and recovery.
+- How this repository uses it: Credited on drill cards where the drill matches its advice. The article advises against turning the hips away from the net at the kitchen. This repository treats that as a strong default for short moves at the kitchen. It is not treated as a ban on crossover steps when a ball is too far for a shuffle, or away from the kitchen.
 
 ## Original material
 
