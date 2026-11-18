@@ -76,9 +76,9 @@ None of these resources is needed to use the drills. Paid items are optional fur
 - Author or organization: pickleball.com
 - URL: https://pickleball.com/learn/a-closer-look-at-pickleball-footwork-with-michael-loyd
 - Format: Online article
-- Access status: Inaccessible
+- Access status: Inaccessible. Treated as a broken link until the repository owner has a login.
 - Date checked: November 18, 2026
-- Sections reviewed: None. The page returned HTTP 404 to one automated fetch and HTTP 403 to another. This may be a block on automated access rather than a removed page. It was not confirmed as broken.
+- Sections reviewed: None. The page returned HTTP 404 to one automated fetch and HTTP 403 to another. The repository owner also does not have access. The page may need a login. Recheck it once a login is available.
 - Topics noted in earlier planning (not re-verified): ready position, split-step timing, and lateral shuffle practice with partner feeds.
 - Relevant skill: Split-step timing and lateral shuffle.
 - How this repository uses it: Listed as a supplemental reading only. No drill summarizes it. The repository treats "shuffle at the kitchen" as a default for short moves, not a ban on crossover steps.
